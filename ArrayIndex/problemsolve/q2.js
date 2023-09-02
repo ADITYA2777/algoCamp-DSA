@@ -45,4 +45,4 @@ while (j<n) {
 for (let i = 0; i < reullt.length;i++){
     nums1[i] = reullt[i];
 }
-console.log(merage(nums1,nums2));
+console.log(merage(C));
