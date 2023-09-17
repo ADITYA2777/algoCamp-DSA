@@ -19,6 +19,13 @@ for (let i = 0; i < 7; i++){
     let inner = Array(5).fill(Math.floor(Math.random()*10));
     sam[i] = inner;
 }
-console.log(sam);
+// console.log(sam);
 
 
+let matrix = Array(5);
+for (let i = 0; i < 5;i++){
+    let inside = Array(6).fill(0)
+    matrix[i] = inside;
+
+}
+console.log(matrix);
